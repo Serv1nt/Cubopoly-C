@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "result.h"
+#include "stats.h"
 #include "game.h"
 
 int main()
